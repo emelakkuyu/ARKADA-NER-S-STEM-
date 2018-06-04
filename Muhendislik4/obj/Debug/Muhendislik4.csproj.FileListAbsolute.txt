@@ -1,0 +1,33 @@
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.exe.config
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.exe
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.pdb
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csprojResolveAssemblyReference.cache
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Form1.resources
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Properties.Resources.resources
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csproj.GenerateResource.cache
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csproj.CoreCompileInputs.cache
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.exe
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.pdb
+C:\Users\eakku\Source\Repos\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Form2.resources
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.exe.config
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.exe
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.pdb
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csprojResolveAssemblyReference.cache
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Form1.resources
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Form2.resources
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Properties.Resources.resources
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csproj.GenerateResource.cache
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csproj.CoreCompileInputs.cache
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.exe
+C:\Users\eakku\Desktop\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.pdb
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.exe.config
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.exe
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\bin\Debug\Muhendislik4.pdb
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csprojResolveAssemblyReference.cache
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Form1.resources
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Form2.resources
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.Properties.Resources.resources
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csproj.GenerateResource.cache
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.csproj.CoreCompileInputs.cache
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.exe
+C:\Users\eakku\Desktop\Emel Akkuyu 2015123054\Muhendislik4\Muhendislik4\obj\Debug\Muhendislik4.pdb
